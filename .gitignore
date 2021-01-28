@@ -1,0 +1,10 @@
+# Ignore all data folder except README.md
+data/*
+!data/README.md
+
+# Ignore all proc folder except README.md
+proc/*
+!proc/README.md
+
+# Ignore __pycache__ folders
+*/__pycache__
